@@ -1,0 +1,11 @@
+*{
+  font-family: 'Domine', serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+background-image: linear-gradient(145deg, rgb(47, 3, 105),rgb(76, 36, 151),rgb(89, 5, 128),rgb(83, 0, 139));
+min-height: 100vh;
+}
